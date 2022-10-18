@@ -1,4 +1,4 @@
-392cf28d1feb945bd656475ba124e79e *DESCRIPTION
+1662ad7599ff7f73286e1089469d2505 *DESCRIPTION
 6c4977330a8ff37be2da9de01874834c *NAMESPACE
 78286de579422a387f2eedb4b5fdcbbf *R/RcppExports.R
 cc92813a313b0221b62c3e2e5e95da24 *R/gridOT-package.R
@@ -26,7 +26,7 @@ e36d19ef3e1e985af690d3cbd36f3772 *man/transport_df.Rd
 b4e33762f70a92b94f99d29fd3fd6155 *src/RcppExports.cpp
 f9bf71232ec468dcd6f83c678a5e74a6 *src/construct_duals.h
 89af5d3367b291c6957f65a1e52ec2cf *src/cost_matrix.cpp
-15202b06a57af98ea80d90febe197aa9 *src/dual.h
+bab1ec43277fe391773afc6099ac2073 *src/dual.h
 f5ef7963314454f63c3accfab97f8918 *src/frank_wolfe.cpp
 84527fd95fa246ae05b95cbf6b67af30 *src/frank_wolfe_generic.h
 288cc1172fafc7ef9b3d550b5eaa8a94 *src/full_bipartitegraph.h

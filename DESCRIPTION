@@ -1,8 +1,8 @@
 Package: gridOT
 Type: Package
 Title: Approximate Optimal Transport Between Two-Dimensional Grids
-Version: 1.0
-Date: 2022-11-10
+Version: 1.0.1
+Date: 2022-10-18
 Authors@R: 
 	c(person(given = "Michel", family = "Groppe", role = c("aut", "cre"), 
 	         email = "michel.groppe@stud.uni-goettingen.de"),
@@ -15,10 +15,10 @@ LinkingTo: Rcpp, RcppArmadillo
 RoxygenNote: 7.2.1
 Encoding: UTF-8
 NeedsCompilation: yes
-Packaged: 2022-10-14 14:57:38 UTC; Michl
+Packaged: 2022-10-18 14:02:34 UTC; Michl
 Author: Michel Groppe [aut, cre],
   Nicholas Bonneel [ctb],
   Egerváry Research Group on Combinatorial Optimization [cph]
 Maintainer: Michel Groppe <michel.groppe@stud.uni-goettingen.de>
 Repository: CRAN
-Date/Publication: 2022-10-17 06:22:41 UTC
+Date/Publication: 2022-10-18 23:05:13 UTC

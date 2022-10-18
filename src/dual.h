@@ -23,6 +23,8 @@ class Dual
 		{
 		}
 		
+		virtual ~Dual() = default;
+		
 		// calculates the dual solution
 		// @param weightStart start of the new weights of the first measure
 		// @param weightEnd end of the new weights of the first measure
